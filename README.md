@@ -1,5 +1,7 @@
 # Song Genre Classification AI Model
 
+Frequently use the random shuffle on spotify and am always disappointed. This is what inspired me to create this model. Was going a simpler route in the beginning, but audio processing and spectrograms peaked my interest.
+
 Link to research paper:
 https://docs.google.com/document/d/1EBY-QbsPB9-EtAEJd2DVct7oVTYVFbIsitSzRv6gSBc/edit?usp=sharing
 
